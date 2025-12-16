@@ -18,6 +18,3 @@ __pycache__/
 
 # macOS
 .DS_Store
-
-# Logs (если появятся)
-*.log
